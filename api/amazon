@@ -1,0 +1,1 @@
+{"error":"query is required.","example":"/amazon?query=Apple","status":405}
