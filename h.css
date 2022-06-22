@@ -1,0 +1,24 @@
+#total { align-items: center ;
+  padding-right: auto;
+  padding-top: 60;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 64px;
+  display: block ;
+  position: fixed !important;
+  left: 25% ;
+  height: 10px !important;
+  }
+  #tota {
+    padding-top: 0;
+    font-size: 26px;
+    height: 5px;
+    vertical-align: top !important;
+  }
+  #by { font-size: 18px;
+  float: right;
+  padding-left: 0px !important;
+  margin-left: 0;
+  display: inline;
+  }
